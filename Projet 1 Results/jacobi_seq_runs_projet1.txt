@@ -1,0 +1,127 @@
+Jacobi seq. (Nx=Ny=128):
+niters = 10000
+	Residual L2: 5.124770e-01
+	Error   L2: 2.553971e-02
+	Error Linf: 5.146775e-02
+	Elapsed (s): 1.468002e-01
+
+niters = 50000
+	Residual L2: 3.611221e-06
+	Error   L2: 2.434256e-05
+	Error Linf: 4.905525e-05
+	Elapsed (s): 6.304594e-01
+
+niters = 100000
+	Residual L2: 3.078368e-12
+	Error   L2: 2.452270e-05
+	Error Linf: 4.941827e-05
+	Elapsed (s): 1.259418e+00
+
+niters = 250000
+	Residual L2: 2.693224e-12
+	Error   L2: 2.452270e-05
+	Error Linf: 4.941827e-05
+	Elapsed (s): 3.120396e+00
+
+niters = 500000
+	Residual L2: 2.693224e-12
+	Error   L2: 2.452270e-05
+	Error Linf: 4.941827e-05
+	Elapsed (s): 6.243954e+00
+
+Jacobi seq. (Nx=Ny=256):
+niters = 10000
+	Residual L2: 4.693587e+00
+	Error   L2: 2.359334e-01
+	Error Linf: 4.736852e-01
+	Elapsed (s): 5.144126e-01
+
+niters = 50000
+	Residual L2: 2.363485e-01
+	Error   L2: 1.187468e-02
+	Error Linf: 2.384089e-02
+	Elapsed (s): 2.366793e+00
+
+niters = 100000
+	Residual L2: 5.637843e-03
+	Error   L2: 2.772038e-04
+	Error Linf: 5.565441e-04
+	Elapsed (s): 4.927250e+00
+
+niters = 250000
+	Residual L2: 7.652320e-08
+	Error   L2: 6.198256e-06
+	Error Linf: 1.244428e-05
+	Elapsed (s): 1.189808e+01
+
+niters = 500000
+	Residual L2: 1.030748e-11
+	Error   L2: 6.202102e-06
+	Error Linf: 1.245200e-05
+	Elapsed (s): 2.446341e+01
+
+Jacobi seq. (Nx=Ny=512) :
+niters = 10000
+	Residual L2: 8.198041e+00
+	Error   L2: 4.137013e-01
+	Error Linf: 8.290078e-01
+	Elapsed (s): 2.677601e+00
+
+niters = 50000
+	Residual L2: 3.872237e+00
+	Error   L2: 1.954055e-01
+	Error Linf: 3.915692e-01
+	Elapsed (s): 1.196727e+01
+
+niters = 100000
+	Residual L2: 1.516270e+00
+	Error   L2: 7.651494e-02
+	Error Linf: 1.533267e-01
+	Elapsed (s): 2.374431e+01
+
+niters = 250000
+	Residual L2: 9.103761e-02
+	Error   L2: 4.592528e-03
+	Error Linf: 9.202875e-03
+	Elapsed (s): 5.797289e+01
+
+niters = 500000
+	Residual L2: 8.380975e-04
+	Error   L2: 4.073385e-05
+	Error Linf: 8.162575e-05
+	Elapsed (s): 1.155509e+02
+
+Jacobi seq. (Nx=Ny=1024) :
+niters = 10000
+	RResidual L2: 9.425942e+00
+	Error   L2: 4.765929e-01
+	Error Linf: 9.541135e-01
+	Elapsed (s): 2.070235e+01
+
+niters = 50000
+	Residual L2: 7.811404e+00
+	Error   L2: 3.949589e-01
+	Error Linf: 7.906865e-01
+	Elapsed (s): 1.035363e+02
+
+niters = 100000
+	Residual L2: 6.176387e+00
+	Error   L2: 3.122894e-01
+	Error Linf: 6.251866e-01
+	Elapsed (s): 2.065638e+02
+
+niters = 250000
+	Residual L2: 9.103761e-02
+	Error   L2: 4.592528e-03
+	Error Linf: 9.202875e-03
+	Elapsed (s): 5.797289e+01
+
+niters = 500000
+	Residual L2: 8.380975e-04
+	Error   L2: 4.073385e-05
+	Error Linf: 8.162575e-05
+	Elapsed (s): 1.155509e+02
+
+
+
+

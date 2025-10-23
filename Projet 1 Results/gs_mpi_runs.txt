@@ -1,0 +1,76 @@
+GS mpi (Nx=Ny=512, niters = 100000):
+Np = 1:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 7.402982e+01
+
+Np = 2:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 3.704361e+01
+
+Np = 3:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 2.665862e+01
+
+Np = 4:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 2.142266e+01
+
+Np = 8:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 3.083457e+01
+
+Np = 16:
+	Residual L2: 5.685520e-01
+	Elapsed (s): 4.030554e+01
+
+GS mpi (Nx=1024, Ny = 512, niters = 100000):
+
+Np = 1:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 1.360476e+02
+
+Np = 2:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 7.486982e+01
+
+Np = 3:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 5.188631e+01
+
+Np = 4:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 4.014531e+01
+
+Np = 8:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 5.211215e+01
+
+Np = 16:
+	Residual L2: 5.380623e+00
+	Elapsed (s): 7.671774e+01
+
+GS mpi (Nx=2048, Ny = 512, niters = 100000):
+Np = 1:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 3.146219e+02
+
+Np = 2:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 1.701415e+02
+
+Np = 3:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 1.382077e+02
+
+Np = 4:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 1.348223e+02
+	
+Np = 8:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 1.683827e+02
+
+Np = 16:
+	Residual L2: 1.674962e+01
+	Elapsed (s): 2.275390e+02
+

@@ -1,0 +1,119 @@
+GS mpi (Nx=256, Ny = 2048, niters = 100000):
+Np = 1:
+	Residual L2: 1.625233e+01
+	Elapsed (s): 1.033492e+02
+
+Np = 2:
+	Residual L2: 1.625233e+01
+	Elapsed (s): 5.794526e+01
+
+Np = 3:
+	Residual L2: 9.698537e-03
+	Elapsed (s): 3.335977e+00
+
+Np = 4:
+	Residual L2: 9.681871e-03
+	Elapsed (s): 2.801283e+00
+
+Np = 8:
+	Residual L2: 9.614508e-03
+	Elapsed (s): 3.817857e+00
+
+Np = 16:
+	Residual L2: 9.478391e-03
+	Elapsed (s): 5.214848e+00
+
+Np = 32:
+	Residual L2: 9.200139e-03
+	Elapsed (s): 8.661396e+00
+
+
+Jacobi mpi (Nx=512, Ny = 2048, niters = 100000):
+Np = 1:
+	Residual L2: 8.539488e-01
+	Elapsed (s): 2.064671e+01
+
+Np = 2:
+	Residual L2: 8.518167e-01
+	Elapsed (s): 8.867894e+00
+
+Np = 3:
+	Residual L2: 8.507486e-01
+	Elapsed (s): 7.349810e+00
+
+Np = 4:
+	Residual L2: 8.496726e-01
+	Elapsed (s): 6.186550e+00
+
+Np = 8:
+	Residual L2: 8.453721e-01
+	Elapsed (s): 6.183249e+00
+
+Np = 16:
+	Residual L2: 8.367062e-01
+	Elapsed (s): 7.639347e+00
+
+Np = 32:
+	Residual L2: 8.191000e-01
+	Elapsed (s): 1.062514e+01
+	
+
+Jacobi mpi (Nx=1024, Ny = 2048, niters = 100000):
+
+Np = 1:
+	Residual L2: 7.089207e+00
+	Elapsed (s): 3.711944e+01
+
+Np = 2:
+	Residual L2: 7.080268e+00
+	Elapsed (s): 1.776391e+01
+
+Np = 3:
+	Residual L2: 7.074291e+00
+	Elapsed (s): 1.224656e+01
+
+Np = 4:
+	Residual L2: 7.069259e+00
+	Elapsed (s): 9.733224e+00
+
+Np = 8:
+	Residual L2: 7.049245e+00
+	Elapsed (s): 1.127171e+01
+
+Np = 16:
+	Residual L2: 7.009051e+00
+	Elapsed (s): 1.284211e+01
+
+Np = 32:
+	Residual L2: 6.927966e+00
+	Elapsed (s): 1.913491e+01
+
+Jacobi mpi (Nx=2048, Ny = 2048, niters = 100000):
+Np = 1:
+	Residual L2: 1.890903e+01
+	Elapsed (s): 7.685525e+01
+
+Np = 2:
+	Residual L2: 1.890566e+01
+	Elapsed (s): 4.590119e+01
+
+Np = 3:
+	Residual L2: 1.889754e+01
+	Elapsed (s): 4.572126e+01
+
+Np = 4:
+	Residual L2: 1.888556e+01
+	Elapsed (s): 4.766063e+01
+
+Np = 8:
+	Residual L2: 1.885414e+01
+	Elapsed (s): 6.565370e+01
+
+Np = 16:
+	Residual L2: 1.879907e+01
+	Elapsed (s): 6.640279e+01
+
+Np = 32:
+	Residual L2: 1.868846e+01
+	Elapsed (s): 6.811888e+01
+

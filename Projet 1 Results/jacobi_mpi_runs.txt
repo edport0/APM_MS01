@@ -1,0 +1,74 @@
+Jacobi mpi (Nx=Ny=512, niters = 100000):
+Np = 1:
+	Residual L2: 8.539488e-01
+	Elapsed (s): 1.826839e+01
+
+Np = 2:
+	Residual L2: 8.518167e-01
+	Elapsed (s): 8.938712e+00
+
+Np = 3:
+	Residual L2: 8.507486e-01
+	Elapsed (s): 7.325006e+00
+
+Np = 4:
+	Residual L2: 8.496726e-01
+	Elapsed (s): 5.159396e+00
+
+Np = 8:
+	Residual L2: 8.453721e-01
+	Elapsed (s): 6.138250e+00
+
+Np = 16:
+	Residual L2: 8.367062e-01
+	Elapsed (s): 7.551057e+00
+
+Jacobi mpi (Nx=1024, Ny = 512, niters = 100000):
+
+Np = 1:
+	Residual L2: 7.089207e+00
+	Elapsed (s): 3.703352e+01
+
+Np = 2:
+	Residual L2: 7.080268e+00
+	Elapsed (s): 2.043729e+01
+Np = 3:
+	Residual L2: 7.074291e+00
+	Elapsed (s): 1.345818e+01
+
+Np = 4:
+	Residual L2: 7.069259e+00
+	Elapsed (s): 1.077298e+01
+
+Np = 8:
+	Residual L2: 7.049245e+00
+	Elapsed (s): 1.094890e+01
+
+Np = 16:
+	Residual L2: 7.009051e+00
+	Elapsed (s): 1.494775e+01
+
+Jacobi mpi (Nx=2048, Ny = 512, niters = 100000):
+Np = 1:
+	Residual L2: 1.890903e+01
+	Elapsed (s): 7.749631e+01
+
+Np = 2:
+	Residual L2: 1.890566e+01
+	Elapsed (s): 4.626904e+01
+Np = 3:
+	Residual L2: 1.889754e+01
+	Elapsed (s): 4.362367e+01
+
+Np = 4:
+	Residual L2: 1.888556e+01
+	Elapsed (s): 4.583410e+01
+
+Np = 8:
+	Residual L2: 1.885414e+01
+	Elapsed (s): 6.270823e+01
+
+Np = 16:
+	Residual L2: 1.879907e+01
+	Elapsed (s): 6.629424e+01
+

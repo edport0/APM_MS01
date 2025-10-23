@@ -1,0 +1,41 @@
+(Nx=Ny=128, tol=1e-7):
+Jacobi:
+	Iterations: 62094
+	Residual L2: 9.998636e-08
+	Error   L2: 2.451771e-05
+	Error Linf: 4.940822e-05
+	Elapsed (s): 2.101537e+00
+GS:
+	Iterations: 31048
+	Residual L2: 9.998564e-08
+	Error   L2: 2.451772e-05
+	Error Linf: 4.940823e-05
+	Elapsed (s): 4.381902e+00
+
+(Nx=Ny=256, tol=1e-5):
+Jacobi:
+	Iterations: 184784
+	Residual L2: 9.999401e-06
+	Error   L2: 5.699447e-06
+	Error Linf: 1.144282e-05
+	Elapsed (s): 2.485934e+01
+GS:
+	Iterations: 92393
+	Residual L2: 9.999386e-06
+	Error   L2: 5.699492e-06
+	Error Linf: 1.144300e-05
+	Elapsed (s): 5.427142e+01
+
+(Nx=Ny=512, tol=1e-3):
+Jacobi:
+	Iterations: 490582
+	Residual L2: 9.999815e-04
+	Error   L2: 4.890311e-05
+	Error Linf: 9.799595e-05
+	Elapsed (s): 2.991107e+02
+GS:
+	Iterations: 245292
+	Residual L2: 9.999811e-04
+	Error   L2: 4.890215e-05
+	Error Linf: 9.799531e-05
+	Elapsed (s): 5.873772e+02
